@@ -23,6 +23,7 @@ title{
 	max-width:1200px;
 	min-width:1100px;
 	height:100%;
+	min-height:900px;
 	background:white;
 	overflow:hidden;
 }
