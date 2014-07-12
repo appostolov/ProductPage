@@ -51,7 +51,7 @@ title{
 
 .logo_letter{
 	position:relative;
-	left:10px;
+	left:30px;
 	top:-100px;
 	font-family:"Arial Black", Gadget, sans-serif;
 	text-transform:uppercase;
@@ -66,6 +66,7 @@ title{
 }
 
 .logo p{
+	left:30px;
 	color:#09F;
 	position:relative;
 	font-size:35px;
