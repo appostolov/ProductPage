@@ -1,11 +1,5 @@
 //LOGO 
 var a = document.getElementsByClassName("logo_letter");
-a[0].style.left = 30+"px";
-a[1].style.left = 75+"px";
-a[2].style.left = 117+"px";
-a[3].style.left = 143+"px";
-a[4].style.left = 193+"px";
-a[5].style.left = 216+"px";
 
 var top_poz = -100;
 var letter_num = 0;
