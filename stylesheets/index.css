@@ -50,7 +50,7 @@ title{
 }
 
 .logo_letter{
-	position:absolute;
+	position:relative;
 	top:-100px;
 	font-family:"Arial Black", Gadget, sans-serif;
 	text-transform:uppercase;
