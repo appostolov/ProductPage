@@ -57,6 +57,7 @@ title{
 	font-size:60px;
 	line-height:115px;
 	z-index:1;
+	float:left;
 }
 
 .logo_letter:hover{
@@ -65,13 +66,13 @@ title{
 
 .logo p{
 	color:#09F;
-	position:absolute;
-	left:270px;
+	position:relative;
 	font-size:35px;
 	font-style:italic;
 	font-weight:bold;
 	opacity:0;
 	line-height:83px;
+	float:left;
 }
 
 .logo p:hover{
