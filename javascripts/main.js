@@ -241,7 +241,7 @@ var logo_fall = setInterval(function(){
 			
 	if(letter_num < a.length){
 		a[letter_num].style.top = top_poz + "px";
-		top_poz += 10;
+		top_poz += 20;
 		if(top_poz >= 0){
 			letter_num += 1;
 			top_poz = -100;
